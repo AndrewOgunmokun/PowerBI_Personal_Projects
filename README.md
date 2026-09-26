@@ -5,3 +5,4 @@ A collection of Power BI dashboards I've built to practice data modeling, DAX, a
 ## Projects
 
 - **[Instagram Follow Analysis](./Instagram_Follow_Analysis)** — Analyzes Instagram follower/following data to identify non-reciprocal relationships and calculate engagement metrics, using Power Query (JSON parsing, anti-joins) and DAX (calculated measures and columns).
+- * [Northwind Supply Chain & Sales Analysis](Northwind_SQL_PowerBI_Analysis) — Connects a SQL Server database to Power BI to analyze order fulfillment, shipping performance, and sales revenue, using SQL (joins, aggregations, views) and DAX (calculated measures).
